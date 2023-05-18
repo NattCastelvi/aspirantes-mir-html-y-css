@@ -1,0 +1,27 @@
+body{
+    background-color: #660033;
+    text-align: justify;
+    color: #ccffff;
+    margin-left: 200px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+}
+
+.titulo {
+    color: #bf80ff;
+   text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.img{
+    display:block;
+    margin:auto;
+}
+
+h2{
+    color: #ccccff;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
